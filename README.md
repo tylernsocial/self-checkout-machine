@@ -1,5 +1,5 @@
 # self-checkout-machine
-Collaborated within a cross-functional team to create a self-checkout machine for a grocery store as part of the UofC SENG-300 course. Took responsibility for designing and implementing an engaging graphical user interface using Java Swing.
+Collaborated with a cross-functional team to create this finished version of a self-checkout machine for a grocery store as part of the UofC SENG-300 course. Took responsibility for designing and implementing an engaging graphical user interface using Java Swing.
 # specifics
 The self-checkout machine project commenced with random groups of 7 members, each given the task of creating specific use cases and tests, along with the self-checkout machine hardware files. This initial stage was referred to as iteration 1.
 
