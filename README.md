@@ -1,3 +1,5 @@
+# demo video
+https://www.loom.com/share/b411f5c3fad4448e9c2d0ddc0c028fbe
 # self-checkout-machine
 Collaborated with a cross-functional team to create this finished version of a self-checkout machine for a grocery store as part of the UofC SENG-300 course. Took responsibility for designing and implementing an engaging graphical user interface using Java Swing.
 # specifics
